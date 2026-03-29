@@ -1,34 +1,34 @@
-# 🧠 Real-time AI Copilot (Cognitive Layer MVP)
+# Real-time AI Copilot (Cognitive Layer MVP)
 
-## 🚀 Overview
+## Overview
 A real-time, context-aware AI copilot designed to augment human thinking during live conversations.
 
-## 🎯 Vision
+## Vision
 From asking AI → to thinking WITH AI
 
-## ❗ Problem
+## Problem
 Humans struggle with:
 - cognitive overload
 - real-time response pressure
 - maintaining context
 
-## 💡 Solution
+## Solution
 A copilot that:
 - tracks context
 - detects topic continuity
 - generates speakable suggestions
 - uses experience-style reasoning
 
-## 🏗 Architecture
+## Architecture
 User Input → Context Engine → Topic Intelligence → Prompt → LLM → Output
 
-## 🔑 Features
+## Features
 - Context awareness
 - Topic intelligence
 - Experience-driven output
 - Speakable format
 
-## 🧪 Example
+## Example
 Input:
 How to build a customer support AI agent?
 
@@ -42,26 +42,26 @@ Output:
 • Add fallback  
 → "What works well is handing off to human agents for complex cases."
 
-## ⚙️ Run
+## Run
 pip install -r requirements.txt  
 export OPENAI_API_KEY=your_key_here  
 python cli_demo.py
 
-## 🚧 Scope
+## Scope
 This MVP focuses on the cognitive layer.
 No ASR / streaming yet.
 
-## 🗺 Roadmap
+## Roadmap
 - Add streaming
 - Add ASR
 - Add UI layer
 
-## 💼 Use Cases
+## Use Cases
 - Interview copilot
 - Sales assistant
 - Meeting support
 
-## 🧠 Positioning
+## Positioning
 Not a chatbot.
 Not an agent.
 
